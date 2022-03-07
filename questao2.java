@@ -1,5 +1,3 @@
-Questão 2:
-
 /* Necessário importar a biblioteca Scanner para ler o valor de x, definido pelo
 usuário do programa */
 import java.util.Scanner;
@@ -37,5 +35,5 @@ public class Main
                 }
             }
         }
-	}
+}
 }
