@@ -1,7 +1,7 @@
 ![image1](https://user-images.githubusercontent.com/65242022/156950546-4f275ef9-80f7-4e71-8fce-d8067fb61cd4.png)
 
 # Desafio-de-programação-CAPGEMINI
-Soluções para o Desafio de Programação da Academia Capgemini 2022.
+Repositório para as soluções do Desafio de Programação da Academia Capgemini 2022.
 
 Foi utilizada a linguagem Java e um compilador online (https://www.onlinegdb.com/online_java_compiler) para a execução dos códigos.
 
